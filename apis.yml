@@ -4,7 +4,7 @@ url: https://ubix.com
 type: Index
 image: https://ubix.com/images/logo.png
 created: '2024'
-modified: '2024'
+modified: '2026-03-16'
 specificationVersion: '0.16'
 apis:
 - name: Ubix Core API
@@ -45,6 +45,5 @@ contact:
 - type: Twitter
   url: https://twitter.com/ubix
 maintainers:
-- name: Ubix API Team
-  email: api-team@ubix.com
-  url: https://ubix.com/team
+  - FN: Kin Lane
+    email: kin@apievangelist.com
