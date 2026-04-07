@@ -1,5 +1,6 @@
 name: Ubix
-description: APIs and services provided by Ubix
+description: >-
+  APIs and services provided by Ubix.
 url: https://ubix.com
 type: Index
 image: https://ubix.com/images/logo.png
@@ -7,43 +8,44 @@ created: '2024'
 modified: '2026-03-16'
 specificationVersion: '0.16'
 apis:
-- name: Ubix Core API
-  description: Main API for Ubix platform services
-  image: https://ubix.com/images/api-icon.png
-  humanURL: https://ubix.com/api
-  baseURL: https://api.ubix.com/v1
-  tags:
-  - API
-  - Platform
-  - Integration
-  properties:
-  - type: Documentation
-    url: https://docs.ubix.com/api
-  - type: OpenAPI
-    url: https://api.ubix.com/openapi.json
-  - type: Authentication
-    url: https://docs.ubix.com/authentication
-  - type: Rate Limits
-    url: https://docs.ubix.com/rate-limits
-  - type: Status
-    url: https://status.ubix.com
+  - name: Ubix Core API
+    description: >-
+      Main API for Ubix platform services.
+    image: https://ubix.com/images/api-icon.png
+    humanURL: https://ubix.com/api
+    baseURL: https://api.ubix.com/v1
+    tags:
+      - API
+      - Platform
+      - Integration
+    properties:
+      - type: Documentation
+        url: https://docs.ubix.com/api
+      - type: OpenAPI
+        url: https://api.ubix.com/openapi.json
+      - type: Authentication
+        url: https://docs.ubix.com/authentication
+      - type: Rate Limits
+        url: https://docs.ubix.com/rate-limits
+      - type: Status
+        url: https://status.ubix.com
+      - type: Support
+        url: https://support.ubix.com
+      - type: Terms of Service
+        url: https://ubix.com/terms
+      - type: Privacy Policy
+        url: https://ubix.com/privacy
+      - type: SignUp
+        url: https://ubix.com/signup
+      - type: Pricing
+        url: https://ubix.com/pricing
+contact:
+  - type: Email
+    url: mailto:api@ubix.com
   - type: Support
     url: https://support.ubix.com
-  - type: Terms of Service
-    url: https://ubix.com/terms
-  - type: Privacy Policy
-    url: https://ubix.com/privacy
-  - type: SignUp
-    url: https://ubix.com/signup
-  - type: Pricing
-    url: https://ubix.com/pricing
-contact:
-- type: Email
-  url: mailto:api@ubix.com
-- type: Support
-  url: https://support.ubix.com
-- type: Twitter
-  url: https://twitter.com/ubix
+  - type: Twitter
+    url: https://twitter.com/ubix
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
