@@ -15,9 +15,8 @@ apis:
     humanURL: https://ubix.com/api
     baseURL: https://api.ubix.com/v1
     tags:
-      - API
-      - Platform
       - Integration
+      - Platform
     properties:
       - type: Documentation
         url: https://docs.ubix.com/api
