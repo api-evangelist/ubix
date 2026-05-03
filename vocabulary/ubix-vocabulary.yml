@@ -1,0 +1,85 @@
+vocabulary:
+  name: UBIX Labs Platform Vocabulary
+  description: >-
+    Domain vocabulary and taxonomy for the UBIX Labs AI platform covering data
+    integration, machine learning model management, AI deployment, and enterprise
+    analytics capabilities.
+  version: "1.0.0"
+  created: "2026-05-03"
+  modified: "2026-05-03"
+  source: https://www.ubixlabs.com
+
+  domains:
+    - name: AI Platform
+      description: Core concepts of the UBIX AI platform.
+      terms:
+        - term: DataSpace
+          definition: UBIX module for enterprise data ingestion, consolidation, and management across 80+ connector types.
+          synonyms: [Data Layer, Data Hub]
+        - term: ModelSpace
+          definition: UBIX module for no-code AI and ML model development, training, and versioning.
+          synonyms: [Model Studio, Model Builder]
+        - term: SolutionSpace
+          definition: UBIX module for configuring business application workflows using AI models.
+        - term: ProductionSpace
+          definition: UBIX module for deploying and monitoring AI models in production environments.
+          synonyms: [MLOps, Model Deployment]
+        - term: CloudSpace
+          definition: UBIX module for multi-cloud infrastructure orchestration using Kubernetes.
+        - term: ChatUBIX
+          definition: Conversational AI interface for natural language interaction with enterprise data.
+          synonyms: [AI Chat, Natural Language Query]
+        - term: Insights API
+          definition: UBIX API enabling programmatic access to AI-generated insights and model outputs.
+
+    - name: Data Integration
+      description: Data connectivity and pipeline concepts.
+      terms:
+        - term: Connector
+          definition: A pre-built integration component linking UBIX to an external data source or system.
+        - term: Data Lake
+          definition: Centralized repository for storing raw enterprise data ingested via UBIX connectors.
+        - term: ETL
+          definition: Extract, Transform, Load — the process of moving and shaping data for AI use.
+          synonyms: [Data Pipeline, Data Engineering]
+        - term: Data Silo
+          definition: Isolated data stores that the UBIX platform consolidates for unified analytics.
+
+    - name: Machine Learning
+      description: ML model development and lifecycle terms.
+      terms:
+        - term: AI Model
+          definition: A trained machine learning or AI artifact used to generate predictions or insights.
+          synonyms: [ML Model, Predictive Model]
+        - term: Reinforcement Learning
+          definition: ML paradigm where agents learn by optimizing rewards — a core UBIX differentiator.
+        - term: Generative AI
+          definition: AI capable of generating new content, code, or insights from training data.
+          synonyms: [GenAI, Large Language Model]
+        - term: Model Training
+          definition: The process of fitting an AI model to historical data.
+        - term: Model Deployment
+          definition: Publishing a trained AI model for production use in business workflows.
+        - term: No-Code AI
+          definition: Building and deploying AI models without writing code, a key UBIX value proposition.
+
+    - name: Industries
+      description: Industry verticals served by UBIX.
+      terms:
+        - term: BFSI
+          definition: Banking, Financial Services, and Insurance — a primary UBIX vertical.
+        - term: Predictive Analytics
+          definition: Using historical data and AI models to forecast future business outcomes.
+        - term: Healthcare Analytics
+          definition: AI-driven insights for patient care, compliance, and clinical operations.
+
+  categories:
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Integration
+    - Analytics
+    - No-Code
+    - Enterprise
+    - Generative AI
+    - Reinforcement Learning
+    - Cloud Infrastructure

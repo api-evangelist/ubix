@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "ubix": "https://ubixlabs.com/vocab/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "InsightsAPI": "ubix:InsightsAPI",
+    "DataSpace": "ubix:DataSpace",
+    "ModelSpace": "ubix:ModelSpace",
+    "AIModel": "schema:SoftwareApplication",
+    "DataPipeline": "ubix:DataPipeline",
+    "Connector": "ubix:Connector",
+
+    "name": { "@id": "schema:name", "@type": "xsd:string" },
+    "description": { "@id": "schema:description", "@type": "xsd:string" },
+    "modelType": { "@id": "ubix:modelType", "@type": "xsd:string" },
+    "status": { "@id": "schema:status", "@type": "xsd:string" },
+    "industry": { "@id": "schema:industry", "@type": "xsd:string" },
+    "createdAt": { "@id": "schema:dateCreated", "@type": "xsd:dateTime" },
+    "updatedAt": { "@id": "schema:dateModified", "@type": "xsd:dateTime" },
+    "accuracy": { "@id": "ubix:accuracy", "@type": "xsd:double" },
+    "version": { "@id": "schema:version", "@type": "xsd:string" },
+    "connectorType": { "@id": "ubix:connectorType", "@type": "xsd:string" },
+    "sourceSystem": { "@id": "ubix:sourceSystem", "@type": "xsd:string" }
+  }
+}
