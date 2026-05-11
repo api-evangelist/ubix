@@ -103,6 +103,22 @@ contact:
     url: https://www.ubixlabs.com
   - type: Support
     url: https://www.ubixlabs.com/faq
+common:
+  - type: Integrations
+    url: https://www.ubixlabs.com/partners
+integrations:
+  - name: New UBIX Logo Clear - Small
+  - name: Sign In
+  - name: seidor | UBIX
+  - name: QLIX | UBIX
+  - name: SAP | UBIX
+  - name: Google_Cloud_logo.svg
+  - name: searce
+  - name: Colorful logos 05@2x
+  - name: Kyndryl logo 100p
+  - name: boomi | UBIX
+  - name: sage | UBIX
+  - name: SCO+HIPAA-1
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
