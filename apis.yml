@@ -104,6 +104,8 @@ contact:
   - type: Support
     url: https://www.ubixlabs.com/faq
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ubixlabs
   - type: Integrations
     url: https://www.ubixlabs.com/partners
 integrations:
