@@ -104,10 +104,14 @@ contact:
   - type: Support
     url: https://www.ubixlabs.com/faq
 common:
+  - type: DomainSecurity
+    url: security/ubix-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ubixlabs
   - type: Integrations
     url: https://www.ubixlabs.com/partners
+  - url: https://www.ubixlabs.com/blog/rss.xml
+    type: Blog
 integrations:
   - name: New UBIX Logo Clear - Small
   - name: Sign In
