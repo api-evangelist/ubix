@@ -7,6 +7,18 @@ description: >-
   for seamless integration with existing enterprise systems across 12+ industry verticals.
 url: https://www.ubixlabs.com
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://www.ubixlabs.com/favicon.ico
 created: '2024-01-01'
 modified: '2026-05-03'
