@@ -153,6 +153,8 @@ contact:
   - type: Support
     url: https://www.ubixlabs.com/faq
 common:
+  - type: Website
+    url: https://www.ubixlabs.com/
   - type: DomainSecurity
     url: security/ubix-domain-security.yml
   - type: LinkedIn
