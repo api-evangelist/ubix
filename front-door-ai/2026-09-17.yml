@@ -1,0 +1,32 @@
+# Front Door AI Index — ubix — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: ubix
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.ubixlabs.com
+  final_host: www.ubixlabs.com
+  ownership: own
+  owner: ubix
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 52
+  host_score: 52
+  density: 30.32
+  words: 1715
+  tiers:
+    agentic: 2
+    core: 50
+    model: 0
+  ambiguous: 17
+  top_terms:
+    AI: 41
+    intelligence: 11
+    artificial intelligence: 6
+    automation: 4
+    conversational AI: 2
+    generative ai: 2
+    predictive: 2
+    ML: 1
