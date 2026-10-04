@@ -46,7 +46,7 @@ apis:
       - Artificial Intelligence
       - Analytics
       - Data Integration
-      - Machine-Learning
+      - Machine Learning
       - Insights
     tags_raw:
       - Artificial Intelligence
@@ -54,6 +54,7 @@ apis:
       - Data Integration
       - Machine Learning
       - Insights
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://www.ubixlabs.com/platform
@@ -89,7 +90,7 @@ apis:
       analytics and machine learning workflows.
     humanURL: https://www.ubixlabs.com/modelspace
     tags:
-      - Machine-Learning
+      - Machine Learning
       - Model Management
       - Artificial Intelligence
       - Predictive Analytics
@@ -100,6 +101,7 @@ apis:
       - Artificial Intelligence
       - Predictive Analytics
       - Deployment
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://www.ubixlabs.com/modelspace
@@ -129,7 +131,7 @@ apis:
 tags:
   - Artificial Intelligence
   - Analytics
-  - Machine-Learning
+  - Machine Learning
   - Data Integration
   - No-Code
   - Enterprise
@@ -142,6 +144,7 @@ tags_raw:
   - No-Code
   - Enterprise
   - Generative AI
+  - Machine-Learning
 properties:
   - url: vocabulary/ubix-vocabulary.yml
     type: Vocabulary
