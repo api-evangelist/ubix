@@ -66,76 +66,115 @@
 
 UBIX Labs is a no-code, cloud-based AI platform designed to democratize artificial intelligence for business users. The platform provides end-to-end AI capabilities including data integration, model development, deployment, and conversational AI through modular components. UBIX offers over 80 pre-built connectors and an Insights API for seamless integration with existing enterprise systems across 12+ industry verticals.
 
-**URL:** [https://www.ubixlabs.com](https://www.ubixlabs.com)
+**Areas:** Artificial Intelligence · Analytics · Machine Learning · Data Integration · No-Code · Enterprise · Generative AI
 
-## Scope
+## UBIX Labs on APIs.io
 
-- **Type:** Index
+Everything profiled for UBIX Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ubix/](https://apis.io/providers/ubix/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (4)
 
-Artificial Intelligence, Analytics, Machine Learning, Data Integration, No-Code, Enterprise, Generative AI
+- [UBIX Insights API](https://apis.io/apis/ubix/ubix-insights-api/) — The UBIX Insights API enables programmatic access to AI-generated analytics, insights, and model outputs from the UBIX platform. Supports integration with…
+- [UBIX DataSpace API](https://apis.io/apis/ubix/ubix-dataspace-api/) — API for the UBIX DataSpace module enabling data ingestion, transformation, and management across enterprise data sources. Supports connecting to 80+…
+- [UBIX ModelSpace API](https://apis.io/apis/ubix/ubix-modelspace-api/) — API for the UBIX ModelSpace module enabling programmatic management of AI/ML models including creation, training, versioning, and deployment. Supports…
+- [UBIX ChatUBIX API](https://apis.io/apis/ubix/ubix-chatubix-api/) — Conversational AI API enabling natural language interaction with enterprise data and AI models. Supports iterative data exploration, insight generation, and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-05-03
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON-LD (1)
 
-### UBIX Insights API
-API enabling programmatic access to AI-generated analytics, insights, and model outputs from the UBIX platform.
+Linked-data contexts for the provider's vocabulary.
 
-**Human URL:** [https://www.ubixlabs.com/platform](https://www.ubixlabs.com/platform)
+- [Ubix Context](https://apis.io/jsonld/ubix/ubix-context/)
 
-#### Tags
-Artificial Intelligence, Analytics, Data Integration, Machine Learning, Insights
+#### Vocabulary (1)
 
-#### Properties
-- [Documentation](https://www.ubixlabs.com/platform)
-- [SignUp](https://www.ubixlabs.com)
+The provider's domain terms, defined.
 
----
+- [UBIX Labs Platform Vocabulary](https://apis.io/vocabularies/ubix/ubix-vocabulary/)
 
-### UBIX DataSpace API
-API for enterprise data ingestion, transformation, and management across 80+ connector types.
+#### Security (1)
 
-**Human URL:** [https://www.ubixlabs.com/platform](https://www.ubixlabs.com/platform)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags
-Data Integration, ETL, Data Management, Data Lake, Connectors
+- [Ubix Domain Security](https://apis.io/security/ubix/ubix-domain-security/)
 
----
+#### Plans and pricing (1)
 
-### UBIX ModelSpace API
-API for programmatic AI/ML model lifecycle management including creation, training, versioning, and deployment.
+Published plans, tiers and prices.
 
-**Human URL:** [https://www.ubixlabs.com/modelspace](https://www.ubixlabs.com/modelspace)
+- [Ubix Plans Pricing](https://apis.io/plans/ubix/ubix-plans-pricing/)
 
-#### Tags
-Machine Learning, Model Management, Artificial Intelligence, Predictive Analytics, Deployment
+#### Rate limits (1)
 
----
+Published request limits.
 
-### UBIX ChatUBIX API
-Conversational AI API for natural language interaction with enterprise data and AI models.
+- [Ubix Rate Limits](https://apis.io/rate-limits/ubix/ubix-rate-limits/)
 
-**Human URL:** [https://www.ubixlabs.com/platform](https://www.ubixlabs.com/platform)
+#### FinOps (1)
 
-#### Tags
-Conversational AI, Chatbot, Natural Language Processing, Generative AI, Analytics
+What the API costs to run, by operation.
 
----
+- [Ubix Finops](https://apis.io/finops/ubix/ubix-finops/)
 
-## Artifacts
+## Where to find this API
 
-### JSON-LD
-- [json-ld/ubix-context.jsonld](json-ld/ubix-context.jsonld) — Linked data context for UBIX platform entities.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-### Vocabulary
-- [vocabulary/ubix-vocabulary.yml](vocabulary/ubix-vocabulary.yml) — Domain vocabulary for AI platform, data integration, and ML concepts.
+- [Website](https://www.ubixlabs.com/)
+- [Blog](https://www.ubixlabs.com/blog/rss.xml)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 20.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 14.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.0** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ubix/](https://apis.io/providers/ubix/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for UBIX Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ubix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
